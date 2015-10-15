@@ -1,0 +1,33 @@
+CLEVERBOT
+-Hi
+-[bot]Can you ask me some questions?
+-What is your name?
+-[bot]Penny
+-Nice too meet you
+-[bot] And who are you ?
+-My name is Dominika
+-[bot]Hi, Dominika
+-What do you like?
+-[bot] I like to write.
+- Write what?
+-[bot] write books
+-What kind of books
+-[bot] very very nice books
+-Tell me more about it
+-[bot] I think it suits you
+-What do you mean
+-[bot] What are you thinking about
+
+Elbot the Robot
+-Hello
+-[bot] Well, hello there
+-Was the weather nice today ?
+-[bot]This is confusing. Why bring the weather into this?
+-Becouse I checked you
+-[bot]What strange twist of destiny told you to come to me?
+-My homework
+-[bot]At robot school they kept giving us homework. Once I wrote a theme paper on robots in 1960's television.
+-Tell me more about it
+-[bot]When it comes to conversing, people say I have 'it'. I wonder what that means...
+-This wasn't made sense
+-[bot]Could you define meaningful for me?
